@@ -11,3 +11,7 @@ Check out these two videos. One modifies the zoom and the other the power each f
 
 [![Example Video](https://img.youtube.com/vi/sxRXrnczkV4/0.jpg)](https://www.youtube.com/watch?v=sxRXrnczkV4)
 [![Example Video](https://img.youtube.com/vi/tx5pQbAkBA0/0.jpg)](https://www.youtube.com/watch?v=tx5pQbAkBA0)
+
+
+This was previously posted on my old account, but I've since lost access due to the school email being deleted.
+https://github.com/reedaj
