@@ -3,9 +3,13 @@ Modify the screen size in main.rs.
 
 **Controls:**
 WASD - Move around image.
+
 E - Zoom In
+
 Q - Zoom Out
+
 C - Increase Iterations
+
 V - Decrease Iterations
 
 **Build Instructions:**
